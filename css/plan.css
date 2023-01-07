@@ -1,0 +1,59 @@
+    /* Plan Section Starts */
+    
+    .plans {
+        text-align: center;
+    }
+    
+    .plans h1 {
+        margin-top: 100px;
+        margin-bottom: 50px;
+        left: 765px;
+        top: 1792px;
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 47px;
+        color: #151414;
+    }
+    
+    .ideas {
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        gap: 100px;
+        margin-bottom: 130px;
+    }
+    
+    .idea1 h3,
+    .idea2 h3,
+    .idea3 h3,
+    .idea4 h3 {
+        left: 230px;
+        top: 2011.96px;
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 35px;
+        text-align: center;
+        /* Dark 01 */
+        color: #151414;
+    }
+    
+    .idea1 p,
+    .idea2 p,
+    .idea3 p,
+    .idea4 p {
+        left: 277px;
+        top: 2062.96px;
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 25px;
+        line-height: 29px;
+        text-align: center;
+        color: #737272;
+    }
+    /* Plan Section Ends*/

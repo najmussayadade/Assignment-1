@@ -1,0 +1,158 @@
+    /* Job Section  Start*/
+    
+    .how {
+        text-align: center;
+        margin-top: 100px;
+        margin-bottom: 100px;
+    }
+    
+    .how .h1 {
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 47px;
+        letter-spacing: 0em;
+        text-align: center;
+    }
+    
+    .how .p {
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        letter-spacing: 0em;
+        width: 470px;
+        margin: auto;
+        margin-top: 18px;
+        margin-bottom: 70px;
+        text-align: center;
+    }
+    
+    .how a {
+        color: red;
+    }
+    
+    .cards {
+        display: flex;
+        gap: 30px;
+        text-align: left;
+        flex-basis: 100%;
+        flex-wrap: warp;
+    }
+    
+    .card1:hover,
+    .card2:hover,
+    .card3:hover {
+        box-shadow: 0px 16px 52px 0px #818181;
+        transition: all .35s ease-in;
+        background-color: aqua;
+        transform: scale(1.1);
+        border: none;
+    }
+    
+    .card1 a:hover,
+    .card2 a:hover,
+    .card3 a:hover {
+        color: rgb(255, 255, 255);
+    }
+    
+    .card1,
+    .card2,
+    .card3 {
+        box-sizing: border-box;
+        padding: 38px 28px;
+        width: 370px;
+        height: 382px;
+        background: #FFFFFF;
+        border: 1px solid #E4E4ED;
+        border-radius: 12px;
+    }
+    
+    .card2 {
+        box-shadow: 0px 16px 52px rgba(33, 32, 42, 0.08);
+        border-radius: 12px;
+    }
+    
+    .card1 h1 {
+        margin: 36px 0px 18px 0px;
+        font-size: 24px;
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 700;
+        line-height: 34px;
+        letter-spacing: 0em;
+    }
+    
+    .card1 p,
+    .card2 p,
+    .card3 p {
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        text-align: left;
+        margin-bottom: 18px;
+    }
+    
+    .card1 a {
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 28px;
+        letter-spacing: 0em;
+    }
+    
+    .card2 h1 {
+        margin: 36px 0px 18px 0px;
+        font-size: 24px;
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 700;
+        line-height: 34px;
+        letter-spacing: 0em;
+    }
+    
+    .card2 p {
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 28px;
+        letter-spacing: 0em;
+        text-align: left;
+        margin-bottom: 18px;
+    }
+    
+    .card2 a {
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 28px;
+        letter-spacing: 0em;
+    }
+    
+    .card3 h1 {
+        margin: 36px 0px 18px 0px;
+        font-size: 24px;
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 700;
+        line-height: 34px;
+        letter-spacing: 0em;
+    }
+    
+    .card3 p {
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 28px;
+        letter-spacing: 0em;
+        text-align: left;
+        margin-bottom: 18px;
+    }
+    
+    .card3 a {
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 28px;
+        letter-spacing: 0em;
+    }
+    /* Job Section  end*/

@@ -1,0 +1,84 @@
+    /* footer Section Starts */
+    
+    footer {
+        background: #151414;
+        display: flex;
+        justify-content: space-evenly;
+        gap: 350px;
+        padding: 90px 230px;
+    }
+    
+    footer .left-content {
+        width: 485px;
+        height: 317px;
+        color: #FFFFFF;
+        Top: 2781.96px;
+        Left: 230px;
+    }
+    
+    footer .left-content h1 {
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 45px;
+        line-height: 53px;
+    }
+    
+    footer .left-content p {
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        margin-top: 16px;
+        margin-bottom: 24px;
+    }
+    
+    footer .left-content .icons {
+        display: flex;
+        gap: 18px;
+        justify-content: left
+    }
+    
+    footer .right-content {
+        width: 325px;
+        height: 204px;
+        color: #FFFFFF;
+        color: #FFFFFF;
+    }
+    
+    footer .right-content h1 {
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 25px;
+        line-height: 29px;
+        margin-top: 10px;
+    }
+    
+    footer .right-content input {
+        width: 300px;
+        height: 64px;
+        margin-top: 31px;
+        margin-bottom: 36px;
+        background-color: transparent;
+        color: #FFFFFF;
+        border-radius: 8px;
+        border: 2px solid white;
+        padding-left: 21px;
+    }
+    
+    footer .right-content a {
+        font-family: 'Inter', sans-serif;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 24px;
+        width: 170.11px;
+        height: 64px;
+        color: #FFFFFF;
+        padding: 20px 36px;
+        border-radius: 8px;
+        background-color: #005FAC;
+    }
+    /* footer Section Ends */

@@ -1,0 +1,66 @@
+/* Person Section Starts */
+
+.person {
+    display: flex;
+    width: 226px;
+    margin-top: 131px;
+    padding: 0px;
+    gap: 50px;
+}
+
+.person-img {
+    width: 569px;
+    height: 723.3px;
+    margin-right: 87px;
+    text-align: left;
+}
+
+.person-content {
+    margin-top: 250px;
+}
+
+.person-content h1 {
+    width: 288px;
+    height: 94px;
+    left: 862px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+}
+
+.person-content p {
+    width: 416px;
+    height: 104px;
+    margin-top: 24px;
+    margin-bottom: 16px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.person-content ul {
+    padding: 0px;
+    width: 349px;
+    height: 26px;
+    left: 896px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    text-align: left;
+    list-style: none;
+}
+
+.person-content ul li i {
+    margin-right: 10px;
+}
+
+
+/* Person Section Ends */

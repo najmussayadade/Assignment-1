@@ -1,0 +1,54 @@
+    /* Contact Section Starts */
+    
+    .contact,
+    .contact .image {
+        position: relative;
+        text-align: center;
+        margin-bottom: 130px;
+        width: 1140px;
+        height: 300px;
+    }
+    
+    .contact .image .img2 {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    
+    .contact .content {
+        width: 459px;
+        height: 182px;
+        position: absolute;
+        top: 50%;
+        left: 294px;
+        transform: translate(-50%, -50%);
+    }
+    
+    .content h1 {
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 47px;
+        color: #FFFFFF;
+        text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        text-align: left;
+    }
+    
+    .content a {
+        position: absolute;
+        top: 65%;
+        left: 0px;
+        font-family: 'Work Sans';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 23px;
+        text-align: center;
+        color: #005FAC;
+        background-color: #FFFFFF;
+        padding: 21px 36px;
+        border-radius: 5px;
+    }
+    /* Contact Section Ends */
